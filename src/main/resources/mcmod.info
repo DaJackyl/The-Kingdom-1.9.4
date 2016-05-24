@@ -1,0 +1,16 @@
+[
+{
+  "modid": "thekingdom",
+  "name": "The Kingdom",
+  "description": "Medieval themed RPG mod adding weapon, player, and machine leveling.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://www.megathirio.com/minecraft/thekingdom.html",
+  "updateUrl": "",
+  "authorList": ["TheJackyl"],
+  "credits": "FeowynWhisper, Little J, aryliana, shinjuku469, The_Dogmeat, AeroLord89, TheRobrit, Taekero",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
